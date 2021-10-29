@@ -9268,8 +9268,7 @@ textarea.form-control {
 
 @media (max-width: 767.98px) {
   .about-image {
-    height: 400px;
-    margin-bottom: 30px; } }
+    height: 500px; } }
 
 .image-popup {
   cursor: -webkit-zoom-in;
